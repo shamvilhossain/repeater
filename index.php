@@ -2,7 +2,7 @@
 <html lang="en" class="fuelux">
   <head>
     <meta charset="utf-8">
-    <title>Fuel UX Tree</title>
+    <title>shamvilg sdfg</title>
     <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet"/>
     <link href="http://www.fuelcdn.com/fuelux/3.5.0/css/fuelux.min.css" rel="stylesheet"/>
     <link href="slider_css.css" rel="stylesheet"/>
